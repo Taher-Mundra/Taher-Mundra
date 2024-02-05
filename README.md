@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/web-blue-banner-software-ui-development-different-devices-laptop-smartphone-coding-app-business-dashboard-analytics-245636263.jpg)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*Kla5ODh6PycswscCt1lPug.png)]
 <h1 align="center">Hi 👋, I'm Taher</h1>
 <h3 align="center">A passionate software developer from New Jersey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taher-mundra&label=Profile%20views&color=0e75b6&style=flat" alt="taher-mundra" /> </p>
