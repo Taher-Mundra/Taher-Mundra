@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/web-blue-banner-software-ui-development-different-devices-laptop-smartphone-coding-app-business-dashboard-analytics-245636263.jpg)]
 <h1 align="center">Hi 👋, I'm Taher</h1>
 <h3 align="center">A passionate software developer from New Jersey</h3>
-<img align="right" alt="Coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjqqjv6ne5yx81.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/n6JyVpU89mo/maxresdefault.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taher-mundra&label=Profile%20views&color=0e75b6&style=flat" alt="taher-mundra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taher-mundra" alt="taher-mundra" /></a> </p>
