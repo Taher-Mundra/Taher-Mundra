@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*Kla5ODh6PycswscCt1lPug.png)]
+[![MasterHead](https://img.freepik.com/photos-premium/pixel-art-paysage-ville-batiments-abrite-rues-fond-dans-style-retro-pour-jeu-8-bits_985124-172.jpg)]
 <h1 align="center">Hi 👋, I'm Taher</h1>
 <h3 align="center">A passionate software developer from New Jersey</h3>
-<p align="left"> <img src="https://img.freepik.com/photos-premium/pixel-art-paysage-ville-batiments-abrite-rues-fond-dans-style-retro-pour-jeu-8-bits_985124-172.jpg" alt="taher-mundra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taher-mundra&label=Profile%20views&color=0e75b6&style=flat" alt="taher-mundra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taher-mundra" alt="taher-mundra" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/n6JyVpU89mo/maxresdefault.jpg">
