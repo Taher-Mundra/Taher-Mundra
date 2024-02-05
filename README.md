@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/photos-premium/pixel-art-paysage-ville-batiments-abrite-rues-fond-dans-style-retro-pour-jeu-8-bits_985124-172.jpg)]
+![MasterHead](https://img.freepik.com/photos-premium/pixel-art-paysage-ville-batiments-abrite-rues-fond-dans-style-retro-pour-jeu-8-bits_985124-172.jpg)
 <h1 align="center">Hi 👋, I'm Taher</h1>
 <h3 align="center">A passionate software developer from New Jersey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taher-mundra&label=Profile%20views&color=0e75b6&style=flat" alt="taher-mundra" /> </p>
