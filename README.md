@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*Kla5ODh6PycswscCt1lPug.png)]
 <h1 align="center">Hi 👋, I'm Taher</h1>
 <h3 align="center">A passionate software developer from New Jersey</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taher-mundra&label=Profile%20views&color=0e75b6&style=flat" alt="taher-mundra" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" alt="taher-mundra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taher-mundra" alt="taher-mundra" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/n6JyVpU89mo/maxresdefault.jpg">
