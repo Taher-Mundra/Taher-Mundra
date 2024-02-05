@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/04/83/79/63/1000_F_483796317_C6dTm2h6oeGyWY6CJwaCUD8O4B6IaSY6.jpg)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.dreamstime.com/b/web-blue-banner-software-ui-development-different-devices-laptop-smartphone-coding-app-business-dashboard-analytics-245636263.jpg)]
 <h1 align="center">Hi 👋, I'm Taher</h1>
 <h3 align="center">A passionate software developer from New Jersey</h3>
 
